@@ -26,4 +26,4 @@ Run it with Expo:
 cd frontend
 npm install
 npm start
-```
+
