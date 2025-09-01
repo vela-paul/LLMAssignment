@@ -1,2 +1,5 @@
-openai
 chromadb
+openai
+fastapi
+uvicorn
+scikit-learn
