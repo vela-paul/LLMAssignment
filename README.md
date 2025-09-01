@@ -5,7 +5,7 @@ Smart Librarian – a small RAG chatbot that recommends books and provides detai
 ## Setup
 1. Install dependencies:
    ```bash
-   pip install openai chromadb
+   pip install -r requirements.txt
    ```
 2. Set the `OPENAI_API_KEY` environment variable.
 
